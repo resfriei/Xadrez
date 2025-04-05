@@ -84,7 +84,7 @@ int main() {
     moverBispoComLoops(linhasBispo, colunasBispo);
     printf("\n");
 
-    printf("Movimento da Rainha:\n");
+    printf("Movimento da Rainha: \n");
     moverRainhaCima(casasRainha);
     moverRainhaDiagonal(casasRainha);
     printf("\n");
