@@ -49,7 +49,7 @@ void moverRainhaDiagonal(int casas) {
 // Movimento do Cavalo com loops aninhados e controle de fluxo
 
 void moverCavalo() {
-    // Simula movimentos válidos do cavalo: 2 cima + 1 direita
+    // Simula movimentos válidos do cavalo: 2 cima + 1 direitaa
 
     int movimentos = 3;
 

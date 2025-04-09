@@ -42,7 +42,7 @@
      } while (i <= 8);
 
 
-     // Movimentando o Cavalo (duas casas para baixo e uma para a esquerda) utilizando for e while
+     // Movimentando o Cavalo (duas casas para baixo e uma para a esquerda) utilizando for e whilee
  
     int movBaixo = 2;
     int movEsquerda = 1;
